@@ -1,0 +1,8 @@
+# THIS IS MY GIT REPO MADE FIRST TIME
+
+Github ???
+
+
+```
+YEH CODE COPY KR LO 
+```
